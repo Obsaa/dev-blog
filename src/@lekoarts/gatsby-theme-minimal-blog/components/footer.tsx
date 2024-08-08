@@ -24,7 +24,7 @@ const Footer = () => {
       <div>
         <Link
           aria-label="GitHub"
-          href="https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-minimal-blog"
+          href="https://github.com/obsaa/"
         >
           Obsaa.Co
         </Link>
@@ -32,10 +32,10 @@ const Footer = () => {
         by
         {` `}
         <Link
-          aria-label="Resource Blog"
-          href="https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Theme"
+          aria-label="LinkedIn Link"
+          href="https://www.linkedin.com/in/obsaa/"
         >
-          Obsaa
+          Obsaa A.
         </Link>
       </div>
     </footer>
